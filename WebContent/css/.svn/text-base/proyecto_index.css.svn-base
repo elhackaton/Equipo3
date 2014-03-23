@@ -1,0 +1,147 @@
+@charset "utf-8";
+
+a{
+	text-decoration: none;
+}
+
+body{
+	background-color: #d7d7d7;
+}
+/****************************** CABECERA ******************************/
+body header{
+	width:940px;
+	height:75px;
+	margin: 10px auto;
+	margin-bottom:20px;
+	background-color: #fafafa;
+	border-radius: 10px;
+	text-align: center;
+}
+
+body header h1{
+	display:inline;
+	margin:0;
+	margin-top:30px;
+	padding:0;
+	position:relative;
+	top:15px;
+	
+	
+}
+
+/****************************** DIV LENGUAJES ******************************/
+
+section#contenido{
+	width:940px;
+	height:500px;
+	min-width: 940px;
+	margin: 10px auto;
+	padding: 0;
+}
+
+section#filas{
+	padding: 20px;
+	position:relative;
+	width:70%;
+	display: inline-block;
+	background-color: #fafafa;
+	border-radius: 10px;
+}
+
+section#filas h1{
+	text-align: center;
+	margin:0;
+	padding: 0;
+}
+
+div#fila1{
+	width:75%;
+	margin:0 auto;
+	padding:0;
+}
+
+div#fila2{
+	width:75%;
+	margin:0 auto;
+	padding:0;
+}
+
+div.primero_fila{
+	margin-left: 0;
+}
+
+div.ultimo_fila{
+	margin-right: 0;
+}
+
+p{
+	text-align: center;
+	font-weight: bold;
+	margin: 5px;
+}
+
+.iconos_lenguajes{
+	float:left;
+	margin:20px 25px 20px 25px;
+	border:1px solid transparent;
+}
+
+.iconos_lenguajes:hover{
+	border:1px solid #999;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px orange;
+}
+
+div.estrellas{
+	width: 80%;
+	margin: 0px auto;
+}
+
+.imagen_estrella_menor{
+	width:12px;
+	height: 12px;
+}
+
+/****************************** DIV LOGIN ******************************/
+section#login{
+	position:relative;
+	float:right;
+	width:25%;
+	height:200px;
+	display: inline-block;
+	background-color: #fafafa;
+	border-radius: 10px;
+}
+
+section#login h1{
+	text-align: center;
+}
+
+section#login table{
+	width: 85%;
+	margin:0 auto;
+}
+tfoot tr{
+	height:80px;
+}
+
+input[type="text"]:, input[type="password"]{
+	border:2px solid #FAFAFA;
+	width:5px;
+}
+
+input[type="text"]:hover, input[type="password"]:hover{
+	border:2px solid #FBCB09;
+	border-radius: 4px;
+	box-shadow:0px 0px -10px #FBCB09;
+}
+
+
+
+
+
+
+
+
+
+

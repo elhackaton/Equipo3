@@ -1,0 +1,40 @@
+10
+
+dir
+46
+http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend/trunk/WebEducacion/src/org/hackathon
+http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend
+
+
+
+2014-03-23T05:46:13.758209Z
+34
+salva@hackaton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b90bd2c7-5fe0-4596-a988-139fc0e0811f
+
+SistemaPuntuacion
+dir
+
+SistemaUsuario
+dir
+
+buscadores
+dir
+
+datos
+dir
+

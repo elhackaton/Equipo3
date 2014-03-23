@@ -1,0 +1,13 @@
+pilas c#; C sharp - resolver en lenguaje C#; http://www.lawebdelprogramador.com/foros/C_sharp/1023812-resolver_en_lenguaje_C_.html; lawebdelprogramador.com; 250; 50
+pilas c#; C/Visual C - Concatenar 2 pilas en una 3ª; http://www.lawebdelprogramador.com/foros/C_Visual_C/364233-Concatenar_2_pilas_en_una_3.html; lawebdelprogramador.com; 100; 90
+pilas java; Java - Pila de pilas de enteros!!!; http://www.lawebdelprogramador.com/foros/Java/1101938-Pila_de_pilas_de_enteros!!!.html; lawebdelprogramador.com; 1865; 433
+pilas java; Java - Ayuda Palindromo con Pila de usuario; http://www.lawebdelprogramador.com/foros/Java/849090-Ayuda_Palindromo_con_Pila_de_usuario.html; lawebdelprogramador.com; 500; 300
+pilas python; Python - objetos,pilas y colas. AYUDA!; http://www.lawebdelprogramador.com/foros/Python/1405444-objetos,pilas_y_colas._AYUDA!.html; lawebdelprogramador.com; 150; 75
+pilas c#; Memory allocation: Stack vs Heap?; http://stackoverflow.com/questions/4487289/memory-allocation-stack-vs-heap; stackoverflow.com; 450; 120
+pilas c#; Stack and heap in c# [duplicate]; http://stackoverflow.com/questions/6531481/stack-and-heap-in-c-sharp; stackoverflow.com; 500; 200
+pilas java; How do I copy a stack in Java?; http://stackoverflow.com/questions/7919836/how-do-i-copy-a-stack-in-java; stackoverflow.com; 80; 16
+pilas java; Stack in android; http://stackoverflow.com/questions/3767536/stack-in-android; stackoverflow.com; 100; 25
+pilas java; printing stack without popping elements java; http://stackoverflow.com/questions/16082380/printing-stack-without-popping-elements-java; stackoverflow.com; 90; 30
+pilas java; Java notify() run before wait()?; http://stackoverflow.com/questions/19537636/java-notify-run-before-wait; stackoverflow.com; 1000; 500
+pilas python; Python: SyntaxError: non-keyword after keyword arg; http://stackoverflow.com/questions/14247732/python-syntaxerror-non-keyword-after-keyword-arg; stackoverflow.com; 250; 100
+pilas python; QuickSort non recursive with stack python; http://stackoverflow.com/questions/21389330/quicksort-non-recursive-with-stack-python; stackoverflow.com; 400; 350

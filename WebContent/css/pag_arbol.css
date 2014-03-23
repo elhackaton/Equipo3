@@ -1,0 +1,109 @@
+body{
+	background-color: #d7d7d7;
+}
+
+.limpiar{
+	clear:both;
+}
+/*********************** HEADER ****************************/
+body header{
+	width:940px;
+	height:75px;
+	margin: 10px auto;
+	margin-bottom:20px;
+	background-color: #fafafa;
+	border-radius: 10px;
+	text-align: center;
+}
+
+body header h1{
+	display:inline-block;
+}
+
+body header table{
+	margin:5px 5px 0 0;
+	float: right;
+}
+
+/*********************** SECTION TEMAS ********************************/
+section{
+	font-size:0.98em;
+	width:940px;
+	margin:0 auto;
+	position:relative;
+	
+}
+section#temas a{
+	text-decoration:none;
+	color:black;
+}
+
+section article{
+	display:inline-block;
+	position:relative;
+	background-color: #FAFAFA;
+	border-radius: 10px;
+	padding: 20px;
+	position:relative;
+	width:25%;
+	margin-bottom: 20px;
+	border:2px solid transparent;
+	
+}
+
+.hover:hover{
+	border:2px solid #999;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px orange;
+	
+}
+img{
+	border:2px solid transparent;
+}
+
+section article#flecha:hover{}
+
+section article#flecha{
+	background-color:#D7D7D7;
+	text-align:center;
+}
+
+section article.medio{
+	margin:0 47px;
+}
+
+/*********************************** DIV EJERCICIOS ***************************/
+
+div#ejercicios{
+	display:none;
+	padding:0;
+	margin:0;
+	position:relative;
+	width:20%;
+	float:right;
+	right: 46%;
+	
+}
+
+div#ejercicios ol{
+	padding-left: 20px;
+}
+
+article#ejercicios_variables{
+	font-size:0.98em;;
+	background-color: #FAFAFA;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+div#ejercicios h1 {
+	margin-top:0;
+}
+
+nav>h1{
+	margin-top:0;
+}
+nav ul{
+	padding-left:10px;
+	list-style: none;
+}

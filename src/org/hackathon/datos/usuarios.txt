@@ -1,0 +1,5 @@
+cristian; nolose; c:54; c#:123; c++:111; java:456
+guille; 123456; c:11; c#:555; java:1111
+ivan; qwerty; c:1000; c#:123; c++:1; java:1845
+juanita; JUANOTA; c:999; c#:5; c++:100; java:7
+pepito; pepote; c#:100; c++:69; java:12
