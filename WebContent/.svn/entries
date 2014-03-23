@@ -1,15 +1,15 @@
 10
 
 dir
-46
+55
 http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend/trunk/WebEducacion/WebContent
 http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend
 
 
 
-2014-03-23T06:28:06.575180Z
-46
-salva@hackaton
+2014-03-23T08:21:23.533498Z
+55
+ivan@hackaton
 
 
 svn:special svn:externals svn:needs-lock
@@ -38,11 +38,11 @@ file
 
 
 
-2014-03-23T06:24:48.869000Z
-60c9af64083d38f369b6ce912924ce2f
-2014-03-23T06:25:05.198307Z
-44
-salva@hackaton
+2014-03-23T08:21:36.929000Z
+8b17374c11540926bf27e4cd77dc7381
+2014-03-23T08:21:23.533498Z
+55
+ivan@hackaton
 has-props
 
 
@@ -64,7 +64,7 @@ has-props
 
 
 
-1588
+1584
 
 css
 dir
@@ -75,10 +75,10 @@ file
 
 
 
-2014-03-23T06:03:33.158000Z
-3aec8155ed987efebde68f1626dfe0e9
-2014-03-23T06:02:00.989390Z
-36
+2014-03-23T08:19:45.215000Z
+f846c9f5f295e39d42c55dda11890e27
+2014-03-23T08:19:26.717710Z
+54
 ivan@hackaton
 
 
@@ -101,10 +101,78 @@ ivan@hackaton
 
 
 
-1155
+1423
+
+ejercicio.jpg
+file
+
+
+
+
+2014-03-23T08:19:45.168000Z
+683420098faac1e27a55280c6fead466
+2014-03-23T08:19:26.717710Z
+54
+ivan@hackaton
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56107
 
 fancybox
 dir
+
+hoja.png
+file
+
+
+
+
+2014-03-23T08:19:45.271000Z
+8b22f08902cf0c89c64a0e434eba5274
+2014-03-23T08:19:26.717710Z
+54
+ivan@hackaton
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18504
 
 html
 dir
@@ -118,10 +186,10 @@ file
 
 
 
-2014-03-23T06:17:31.824000Z
-17eea383d9eebf9e4f5e86c00f8f96ba
-2014-03-23T06:14:57.391760Z
-40
+2014-03-23T06:56:21.059000Z
+69bc2b07c0cf332c5f004b1221fc90a5
+2014-03-23T06:44:03.450368Z
+47
 ivan@hackaton
 has-props
 
@@ -144,7 +212,7 @@ has-props
 
 
 
-7355
+7354
 
 java.jsp
 file
@@ -152,11 +220,11 @@ file
 
 
 
-2014-03-23T06:28:12.593000Z
-9dd700445a2f1e9f1ac85c641790e249
-2014-03-23T06:25:20.661363Z
-45
-cristian@hackaton
+2014-03-23T08:19:45.192000Z
+f33314b00a6f168b3ac93a6c2e38d1bc
+2014-03-23T08:19:26.717710Z
+54
+ivan@hackaton
 has-props
 
 
@@ -178,7 +246,7 @@ has-props
 
 
 
-3959
+3945
 
 js
 dir

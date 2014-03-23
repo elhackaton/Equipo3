@@ -108,7 +108,7 @@
 						<p class="nombre_lenguajess_index">
 							JAVA
 						</p>
-						<a href="java.html"><img src="images/java.png" alt="lenguaje de programaci�n JAVA" width="128" height="128"></a>
+						<a href="java.jsp"><img src="images/java.png" alt="lenguaje de programaci�n JAVA" width="128" height="128"></a>
 						<div class="estrellas">
 							<img src="images/Star-icon.png" alt="puntuaci�n en estrellas" class="imagen_estrella">
 							<img src="images/Star-icon.png" alt="puntuaci�n en estrellas" class="imagen_estrella_menor">

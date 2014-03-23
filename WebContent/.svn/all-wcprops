@@ -1,29 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svn/HackatonFrontend/!svn/ver/46/trunk/WebEducacion/WebContent
+/svn/HackatonFrontend/!svn/ver/55/trunk/WebEducacion/WebContent
+END
+ejercicio.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/HackatonFrontend/!svn/ver/54/trunk/WebEducacion/WebContent/ejercicio.jpg
 END
 ejercicio.html
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/HackatonFrontend/!svn/ver/36/trunk/WebEducacion/WebContent/ejercicio.html
+/svn/HackatonFrontend/!svn/ver/54/trunk/WebEducacion/WebContent/ejercicio.html
+END
+hoja.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/HackatonFrontend/!svn/ver/54/trunk/WebEducacion/WebContent/hoja.png
 END
 index.jsp
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/HackatonFrontend/!svn/ver/40/trunk/WebEducacion/WebContent/index.jsp
+/svn/HackatonFrontend/!svn/ver/47/trunk/WebEducacion/WebContent/index.jsp
 END
 java.jsp
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/HackatonFrontend/!svn/ver/45/trunk/WebEducacion/WebContent/java.jsp
+/svn/HackatonFrontend/!svn/ver/54/trunk/WebEducacion/WebContent/java.jsp
 END
 altaUsuario.jsp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svn/HackatonFrontend/!svn/ver/44/trunk/WebEducacion/WebContent/altaUsuario.jsp
+/svn/HackatonFrontend/!svn/ver/55/trunk/WebEducacion/WebContent/altaUsuario.jsp
 END

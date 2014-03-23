@@ -41,7 +41,8 @@ section#temas a{
 section article{
 	display:inline-block;
 	position:relative;
-	background-color: #FAFAFA;
+	background-image: url('../hoja.png');
+	background-repeat: no-repeat;
 	border-radius: 10px;
 	padding: 20px;
 	position:relative;
@@ -65,6 +66,7 @@ section article#flecha:hover{}
 
 section article#flecha{
 	background-color:#D7D7D7;
+	background-image: url('');
 	text-align:center;
 }
 

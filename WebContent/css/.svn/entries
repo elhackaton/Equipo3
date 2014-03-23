@@ -1,14 +1,14 @@
 10
 
 dir
-46
+55
 http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend/trunk/WebEducacion/WebContent/css
 http://serverteam12.cloudapp.net:9090/svn/HackatonFrontend
 
 
 
-2014-03-23T06:02:00.989390Z
-36
+2014-03-23T08:19:26.717710Z
+54
 ivan@hackaton
 
 
@@ -69,10 +69,10 @@ file
 
 
 
-2014-03-23T06:03:33.041000Z
-bdd2702dc0b5a7a9f5fc4232d2aa3ab3
-2014-03-23T06:02:00.989390Z
-36
+2014-03-23T08:19:45.517000Z
+44baf03bd6e6e93dbe9b19c926ea3087
+2014-03-23T08:19:26.717710Z
+54
 ivan@hackaton
 
 
@@ -95,7 +95,7 @@ ivan@hackaton
 
 
 
-1675
+1747
 
 proyecto_index.css
 file

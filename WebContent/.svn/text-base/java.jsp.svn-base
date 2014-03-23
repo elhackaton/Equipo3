@@ -29,19 +29,16 @@
 							type : "iframe",
 							autoScale : false,
 							autoSize : false,
-							width : 660,
-							height : 500
+							width : 510,
+							height : 312,
+							padding :0
 						});
 					});
 						
 			});
 
 		</script>
-		<%import = LaWebDelPregramador;
-
-		LaWebDelPregramador search = new LaWebDelPregramador();
-
-		%>
+		
 
 		
 
@@ -134,6 +131,9 @@
 					<li>Casos especiales: Clases BigInteger y BigDecimal</li>
 				</ol>
 			</article>
+		<div><h1>Recomendaciones</h1>	</div>
+		<div> 
+</div>" </div>
 		</div>
 	</body>
 </html>
